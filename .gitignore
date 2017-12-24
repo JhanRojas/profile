@@ -1,0 +1,12 @@
+### Project ###
+dist
+
+### macOS ###
+.DS_Store
+
+### Bower ###
+bower_components
+
+### Grunt ###
+node_modules
+.tmp
