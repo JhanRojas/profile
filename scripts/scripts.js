@@ -1,1 +1,1 @@
-$("#btnSaludar").click(function(){alert("Hola")});
+$(document).ready(function(){$("#fullpage").fullpage({sectionsColor:["#f2f2f2","#4BBFC3","#7BAABE","whitesmoke","#000"],scrollBar:!1,navigation:!0,verticalCentered:!1})});
